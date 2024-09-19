@@ -103,10 +103,7 @@ Sync your project after adding this.
 ## Step 3: XML in `activity_main.xml`
 
 ```xml
-<LinearLayout
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical">
+
 
     <!-- Picasso Section Title -->
     <TextView
@@ -127,7 +124,7 @@ Sync your project after adding this.
         android:background="@android:color/darker_gray"
         android:padding="4dp"/>
 
-</LinearLayout>
+
 ```
 
 ## Step 4: Load Image from URL Using Picasso
